@@ -1,1 +1,1 @@
-recyclerview ve databinding kullanarak basit bir kişiler listesi oluşturma
+Recyclerview ve databinding kullanarak basit bir kişiler listesi oluşturma
